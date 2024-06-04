@@ -27,6 +27,10 @@ python freeIpInSubnet.py  --subnetId=subnet-xxx
 ...
 ```
 
+## Improvements needed
+
+Pagination for ec2Client.describe_network_interfaces is not implemented.
+
 ## Python version
 
 Tested on Python 3.9
